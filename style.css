@@ -107,3 +107,21 @@ body.cv time {
 body.cv p:first-of-type {
   color: #555;
 }
+
+.color-scheme {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 80%;
+  font-family: inherit;
+}
+
+.color-scheme select {
+  font: inherit;
+}
+
+@media (prefers-color-scheme: dark) {
+  nav a:hover {
+    background-color: oklch(from var(--color-accent) 30% 10% h);
+  }
+}
