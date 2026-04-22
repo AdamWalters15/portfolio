@@ -125,3 +125,20 @@ body.cv p:first-of-type {
     background-color: oklch(from var(--color-accent) 30% 10% h);
   }
 }
+
+/* GITHUB STATS */
+.github-profile {
+  margin-top: 3rem;
+}
+
+#profile-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+  gap: 1em;
+}
+
+#profile-stats p {
+  padding: 1em;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+}

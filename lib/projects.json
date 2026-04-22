@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Food Processing & Grocery Price Analysis",
+    "image": "empty.svg",
+    "description": "Analyzed grocery product data across stores to study relationships between food processing scores (FPro), pricing, and nutrition metrics using Python visualization and regression analysis.",
+    "year": 2026
+  },
+  {
+    "title": "Manhattan Hourly Density Visualization",
+    "image": "empty.svg",
+    "description": "Created a temporal density visualization showing activity patterns across Manhattan by hour using spatial aggregation and geographic plotting.",
+    "year": 2026
+  },
+  {
+    "title": "K-Means Clustering & PCA Exploration",
+    "image": "empty.svg",
+    "description": "Applied principal component analysis and clustering methods to examine structure in multivariate datasets and visualize dimensionality reduction.",
+    "year": 2026
+  },
+  {
+    "title": "Natural Resource Utilization & Fuel Price Trends",
+    "image": "empty.svg",
+    "description": "Explored relationships between oil, gas, and mineral rents and fuel prices using scatterplots, best-fit lines, and transformed scales.",
+    "year": 2025
+  },
+  {
+    "title": "Portfolio Website Development",
+    "image": "empty.svg",
+    "description": "Built a responsive portfolio website using HTML, CSS, and JavaScript with reusable navigation, JSON-driven content, and dark mode support.",
+    "year": 2026
+  },
+  {
+    "title": "GitHub API Integration Dashboard",
+    "image": "empty.svg",
+    "description": "Fetched and displayed live GitHub profile statistics using asynchronous JavaScript and a public API endpoint.",
+    "year": 2025
+  },
+  {
+    "title": "Convolution Filters & Image Processing Demo",
+    "image": "empty.svg",
+    "description": "Implemented convolution filters and pooling concepts to understand feature extraction in image processing and neural networks.",
+    "year": 2025
+  },
+  {
+    "title": "Spline Interpolation & Curve Approximation",
+    "image": "empty.svg",
+    "description": "Explored cubic spline interpolation methods to model smooth transitions between data points and compare approximation quality.",
+    "year": 2024
+  },
+  {
+    "title": "Optimization Algorithms in Linear Programming",
+    "image": "empty.svg",
+    "description": "Worked through simplex-style optimization methods, feasible directions, and duality concepts for constrained linear problems.",
+    "year": 2024
+  },
+  {
+    "title": "Corruption & Institutional Economics Research Review",
+    "image": "empty.svg",
+    "description": "Synthesized research papers on corruption, incentives, and public accountability to evaluate institutional economic behavior.",
+    "year": 2024
+  },
+  {
+    "title": "Population Growth & Malthusian Theory Analysis",
+    "image": "empty.svg",
+    "description": "Studied historical population theory and compared Malthusian predictions with later economic and demographic transitions.",
+    "year": 2024
+  },
+  {
+    "title": "Sequence Convergence & Numerical Methods",
+    "image": "empty.svg",
+    "description": "Analyzed convergence behavior of iterative numerical sequences, including error order, asymptotics, and approximation techniques from upper-division applied mathematics.",
+    "year": 2024
+  }
+]
